@@ -1,0 +1,14 @@
+{
+  "name": "auth_vvv",
+  "version": "0.3.0",
+  "description": "Just for auth between microservices",
+  "main": "auth/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^8.4.0"
+  }
+}
